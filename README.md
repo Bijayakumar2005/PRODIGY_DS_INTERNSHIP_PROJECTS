@@ -24,4 +24,9 @@ Data visualization
 Reporting and documentation
 
 **Objective**   
-The goal was to apply theoretical knowledge in real-world Data Science problems and deliver actionable insights using industry-standard tools and methodologies.
+The goal was to apply theoretical knowledge in real-world Data Science problems and deliver actionable insights using industry-standard tools and methodologies.  
+
+
+
+Here is my Certificate:  
+[Certificate.pdf](https://github.com/user-attachments/files/21300799/Certificate.pdf)
